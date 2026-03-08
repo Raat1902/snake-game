@@ -1,4 +1,3 @@
-/*
 # Snake Game (C++)
 
 A beginner-friendly console **Snake** game written in **C++**.
