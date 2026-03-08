@@ -1,0 +1,17 @@
+// Build outputs
+out/
+build/
+*.o
+*.obj
+*.exe
+*.out
+a.out
+
+// OS junk
+.DS_Store
+Thumbs.db
+
+// Editors/IDEs
+.vscode/
+.idea/
+*.iml
